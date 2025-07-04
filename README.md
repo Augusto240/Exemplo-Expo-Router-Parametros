@@ -1,0 +1,1 @@
+# Exemplo-Expo-Router-Parametros
